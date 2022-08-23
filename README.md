@@ -1,6 +1,6 @@
 # Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning
 This is our Pytorch implementation for the paper:
-> Ding Zou, Wei Wei, Ziyang Wang, Xian-Ling Mao, Feida Zhu, Fang Rui, and Dangyang Chen (2022). Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System
+> Ding Zou, Wei Wei, Ziyang Wang, Xian-Ling Mao, Feida Zhu, Rui Fang, and Dangyang Chen (2022). Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System
 [Paper in Arxiv](https://arxiv.org/pdf/2208.10061.pdf), In CIKM 2022
 
 ## Introduction
