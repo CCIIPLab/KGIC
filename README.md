@@ -46,7 +46,7 @@ graph for recommender systems](https://github.com/hwwang55/RippleNet)" to proces
 
 If you want to use our codes in your research, please cite:
 ```
-@article{KGIC2022,
+@inproceedings{KGIC2022,
   title     = {Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning},
   author    = {
                Zou, Ding and 
